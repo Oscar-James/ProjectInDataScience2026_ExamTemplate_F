@@ -1,0 +1,47 @@
+commit ba25cea8b4ac31b186fae5fcfa25dbeae8615689
+Author: valegrazzini <vagr@itu.dk>
+Date:   Wed Feb 18 13:31:57 2026 +0100
+
+    new file
+
+commit 8be4b4126a8549a2552c96ffc0b1d95bf3e747e3
+Author: Oscar-James <ojlhuillierpedersen@gmail.com>
+Date:   Wed Feb 18 13:16:15 2026 +0100
+
+    pushing metatdata.csv
+
+commit c1948ed23101c77c63d138ad07b7406af86f1bca
+Author: Valentina Grazzini <vale@Valentinas-MacBook-Air.local>
+Date:   Wed Feb 18 12:41:33 2026 +0100
+
+    updated annotation
+
+commit 28c11c604ec200829a80c963cc46ffbccc8d1dc1
+Author: Nikolay Valkov <nikolayvalkov@Nikolays-MacBook-Pro.local>
+Date:   Wed Feb 18 12:37:04 2026 +0100
+
+    initial annotations
+
+commit 3e418b4989fd93e8ac04b34f45ca3297931c377f
+Author: TheoSourget <sourget.theo@live.fr>
+Date:   Fri Feb 6 12:58:11 2026 +0100
+
+    Added reports folder
+
+commit 85ce4030145c84637866fd7f852d8d61c0e98c7a
+Author: TheoSourget <sourget.theo@live.fr>
+Date:   Mon Jan 26 08:52:23 2026 +0100
+
+    Fix main.py description in README
+
+commit 79feda605254d03d015e3251f6a3d9cbcb1b33a5
+Author: TheoSourget <sourget.theo@live.fr>
+Date:   Wed Jan 14 14:41:18 2026 +0100
+
+    added README and removed the annotations folder
+
+commit ae19f2321d3c17ed9cf6e7fbd6563a7ee8ac5de6
+Author: TheoSourget <sourget.theo@live.fr>
+Date:   Wed Jan 14 14:06:50 2026 +0100
+
+    Initial commit
