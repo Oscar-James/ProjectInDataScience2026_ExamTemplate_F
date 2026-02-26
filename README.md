@@ -1,3 +1,3 @@
 Welcome to the README.md file!
 
-Collaborators: Julius Michelsen, ...
+Collaborators: Julius Michelsen, Valentina Grazzini
